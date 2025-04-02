@@ -3,3 +3,4 @@ sri.gob.ec
 api-pichincha.edgekey.net
 pichincha.com
 bancaweb.pichincha.com/pichincha
+app-measurement.com
