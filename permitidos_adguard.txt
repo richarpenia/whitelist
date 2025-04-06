@@ -2,7 +2,8 @@ srienlinea.sri.gob.ec
 sri.gob.ec
 pichincha.com
 bancaweb.pichincha.com/pichincha
-https://bancaweb.pichincha.com/pichincha/login
+bancaweb.pichincha.com/pichincha/login
 app-measurement.com
 appsflyersdk.com
 api.pichincha.com
+google-analytics.com
