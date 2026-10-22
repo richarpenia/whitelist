@@ -1,8 +1,2 @@
-@@||srienlinea.sri.gob.ec^|
 @@||sri.gob.ec^|
 @@||pichincha.com^|
-@@||bancaweb.pichincha.com/pichincha^|
-@@||app-measurement.com^|
-@@||appsflyersdk.com^|
-@@||api.pichincha.com^|
-@@||google-analytics.com^|
